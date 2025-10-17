@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T_daneshgah_1_Temperature", "T_daneshgah_1_Temperature\T_daneshgah_1_Temperature.csproj", "{8377DF73-0820-47D3-956C-7F2643FAD659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8377DF73-0820-47D3-956C-7F2643FAD659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8377DF73-0820-47D3-956C-7F2643FAD659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8377DF73-0820-47D3-956C-7F2643FAD659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8377DF73-0820-47D3-956C-7F2643FAD659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

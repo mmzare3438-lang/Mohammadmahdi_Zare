@@ -1,0 +1,6 @@
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_1_Temperature\T_daneshgah_1_Temperature\bin\Debug\T_daneshgah_1_Temperature.exe.config
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_1_Temperature\T_daneshgah_1_Temperature\bin\Debug\T_daneshgah_1_Temperature.exe
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_1_Temperature\T_daneshgah_1_Temperature\bin\Debug\T_daneshgah_1_Temperature.pdb
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_1_Temperature\T_daneshgah_1_Temperature\obj\Debug\T_daneshgah_1_Temperature.csprojResolveAssemblyReference.cache
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_1_Temperature\T_daneshgah_1_Temperature\obj\Debug\T_daneshgah_1_Temperature.exe
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_1_Temperature\T_daneshgah_1_Temperature\obj\Debug\T_daneshgah_1_Temperature.pdb
