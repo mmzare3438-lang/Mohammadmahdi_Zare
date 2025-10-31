@@ -1,0 +1,5 @@
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_T3_1\T_daneshgah_T3_1\bin\Debug\T_daneshgah_T3_1.exe.config
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_T3_1\T_daneshgah_T3_1\bin\Debug\T_daneshgah_T3_1.exe
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_T3_1\T_daneshgah_T3_1\bin\Debug\T_daneshgah_T3_1.pdb
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_T3_1\T_daneshgah_T3_1\obj\Debug\T_daneshgah_T3_1.exe
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_T3_1\T_daneshgah_T3_1\obj\Debug\T_daneshgah_T3_1.pdb
