@@ -1,0 +1,6 @@
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_5\T_daneshgah_5\bin\Debug\T_daneshgah_5.exe.config
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_5\T_daneshgah_5\bin\Debug\T_daneshgah_5.exe
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_5\T_daneshgah_5\bin\Debug\T_daneshgah_5.pdb
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_5\T_daneshgah_5\obj\Debug\T_daneshgah_5.csprojResolveAssemblyReference.cache
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_5\T_daneshgah_5\obj\Debug\T_daneshgah_5.exe
+C:\Users\MohammadMahdi Zare\Desktop\T_daneshgah_1\T_daneshgah_5\T_daneshgah_5\obj\Debug\T_daneshgah_5.pdb
